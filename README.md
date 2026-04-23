@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.10+
-* **AI Engine:** Google Gemini 1.5 Flash (via Google AI Studio)
+* **AI Engine:** Google Gemini 2.5 Flash lite
 * **Data Retrieval:** PubChem PUG REST API
 * **Interface:** Streamlit
 
